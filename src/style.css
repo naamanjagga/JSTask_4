@@ -1,0 +1,42 @@
+.main_div {
+	margin: 5em;
+}
+.text_1 {
+	margin-left: 7.6%;
+	margin-top: 1em;
+	padding: .5em 1%;
+	text-align: center;
+	display: inline-block;
+}
+.text_2 {
+	margin-left: 5.6%;
+	margin-top: 1em;
+
+	padding: .5em 1%;
+	text-align: center;
+	display: inline-block;
+}
+.text_3 {
+	margin-left: 5.9%;
+	margin-top: 1em;
+	padding: .5em 1%;
+	text-align: center;
+	display: inline-block;
+}
+.click_me {
+	background-color: white;
+	margin-top: 4em;
+	margin-bottom: 7em;
+	color: black;
+	padding: 30px 7%;
+	border: 5px solid black;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+th , td {
+    padding-right: 15em;
+}
